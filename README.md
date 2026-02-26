@@ -29,3 +29,8 @@ ixtlan-territorial-analytics/
 │   └── figures/        # Visualizaciones finales en alta resolución (300 dpi).
 ├── main.R              # Script orquestador que ejecuta el pipeline completo.
 └── README.md           # Bitácora y documentación del proyecto.
+
+```
+
+Autor: Alan Aquino
+Economista | Analista de Datos
